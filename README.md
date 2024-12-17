@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Winston Narada Kusumahadi</h1>
 <h3 align="center">A Lifelong learner who aims to solve problems with technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apraxiatm&label=Profile%20views&color=0e75b6&style=flat" alt="apraxiatm" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=apraxiatm&label=Profile%20views&color=0e75b6&style=flat" alt="apraxiatm" /> </p>-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apraxiatm" alt="apraxiatm" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apraxiatm" alt="apraxiatm" /></a> </p>-->
 
 - 📫 How to reach me **winstonnk55@gmail.com**
 
