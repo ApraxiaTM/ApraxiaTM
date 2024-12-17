@@ -18,8 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apraxiatm&show_icons=true&locale=en" alt="apraxiatm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apraxiatm&" alt="apraxiatm" /></p>
-
 
 <!--
 **ApraxiaTM/ApraxiaTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
