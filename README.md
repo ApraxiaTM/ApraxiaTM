@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Winston Narada Kusumahadi - GitHub Profile</title>
     <style>
         @keyframes typing {
             from { width: 0; }
