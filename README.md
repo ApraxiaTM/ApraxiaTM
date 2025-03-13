@@ -15,7 +15,7 @@
 </p>
 
 <p>&nbsp;
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=apraxiatm&show_icons=true&locale=en&bg_color=FFA500&title_color=000000&text_color=000000" alt="apraxiatm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=apraxiatm&show_icons=true&locale=en&bg_color=FFA500&title_color=000000&text_color=000000" alt="apraxiatm" />
 </p>
 
 
