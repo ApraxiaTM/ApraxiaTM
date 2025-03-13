@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Winston Narada Kusumahadi</h1>
 <h3 align="center">A Lifelong learner who aims to solve problems with technology.</h3>
 <div align="center">
-  <img src="![WhatsApp Image 2025-03-14 at 01 14 24_0ef8ecd7](https://github.com/user-attachments/assets/8331f15d-5a70-493e-9dea-29019e1746a3)" alt="Your Image">
+  <img src="![LinkedinBannerWNK](https://github.com/user-attachments/assets/c6f96519-3e43-4287-a561-2eef44c030ef)" alt="Your Image">
 </div>
+
 
 - 📫 How to reach me **winstonnk55@gmail.com**
 
