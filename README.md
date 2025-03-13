@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Winston Narada Kusumahadi</h1>
 <h3 align="center">A Lifelong learner who aims to solve problems with technology.</h3>
+
+- 📫 How to reach me **winstonnk55@gmail.com**
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c6f96519-3e43-4287-a561-2eef44c030ef" alt="Your Image">
 </div>
-
-
-- 📫 How to reach me **winstonnk55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
